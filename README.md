@@ -1,5 +1,7 @@
 # CoreDataObjectMapper
-CoreDataObjectMapper
+
+
+NSManageObject serializer and deserializer
 
 
 ```
