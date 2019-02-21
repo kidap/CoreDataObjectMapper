@@ -1,0 +1,2 @@
+# CoreDataObjectMapper
+CoreDataObjectMapper
